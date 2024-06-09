@@ -1,3 +1,5 @@
+![image](https://github.com/hitesh-mungara/Diabetics_Prediction_MLModel/assets/93568287/e026665f-a4e3-42fe-b986-2157fb813228)
+
 
 ```markdown
 # Diabetic Prediction Model
